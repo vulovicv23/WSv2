@@ -328,7 +328,3 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
-
-
-# Testing files
-!WSV2.Common.Test/bin/Debug/file.json
