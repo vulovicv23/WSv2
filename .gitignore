@@ -331,4 +331,4 @@ ASALocalRun/
 
 
 # Testing files
-!/WSV2.Common.Test/bin/Debug/file.json
+!WSV2.Common.Test/bin/Debug/file.json
